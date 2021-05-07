@@ -1,0 +1,58 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_small_normal">14dp</dimen>
+    <dimen name="margin_small_normall">13dp</dimen>
+    <dimen name="margin_small_normallll">11dp</dimen>
+    <dimen name="margin_small_normalll">7dp</dimen>
+    <dimen name="margin_xsmall_negative">-8dp</dimen>
+    <dimen name="margin_xxsmall">5dp</dimen>
+    <dimen name="margin_xsmall">10dp</dimen>
+    <dimen name="margin_xsmalll">12dp</dimen>
+    <dimen name="margin_small">14dp</dimen>
+    <dimen name="margin_small_1">16dp</dimen>
+    <dimen name="margin_normal">18dp</dimen>
+    <dimen name="margin_large">10dp</dimen>
+    <dimen name="margin_xlarge">22dp</dimen>
+    <dimen name="margin_xxlarge">24dp</dimen>
+    <dimen name="margin_xxxlarge">26dp</dimen>
+    <dimen name="margin_xxxxlarge">30dp</dimen>
+    <dimen name="margin_profile_image">35dp</dimen>
+    <dimen name="margin_xxxxxlarge">60dp</dimen>
+    <dimen name="card_margin_top">80dp</dimen>
+    <dimen name="margin_top_fire_arms">50dp</dimen>
+    <dimen name="recycler_view_margin">80dp</dimen>
+    <dimen name="image_dimen">100dp</dimen>
+    <dimen name="view_pager_margin">140dp</dimen>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="margin_topx">120dp</dimen>
+    <dimen name="margin_edit_field">60dp</dimen>
+    <dimen name="margin_top_xx">150dp</dimen>
+
+    <dimen name="font_xxxsmall">6sp</dimen>
+    <dimen name="font_xxsmall">10sp</dimen>
+    <dimen name="font_xsmall">18sp</dimen>
+    <dimen name="font_small">20sp</dimen>
+    <dimen name="font_normal">24sp</dimen>
+    <dimen name="font_xnormal">26sp</dimen>
+    <dimen name="font_large">22sp</dimen>
+    <dimen name="font_xlarge">22sp</dimen>
+    <dimen name="font_xxlarge">24sp</dimen>
+    <dimen name="font_xxxlarge">26sp</dimen>
+    <dimen name="font_switch">28sp</dimen>
+    <dimen name="font_count">40sp</dimen>
+    <dimen name="font_home_menu_title">22sp</dimen>
+    <dimen name="font_home_menu_title_ar">18sp</dimen>
+    <dimen name="tab_text_size">11sp</dimen>
+    <dimen name="tab_bar_height">49dp</dimen>
+    <dimen name="fields_margin">60dp</dimen>
+
+    <dimen name="card_view_width">550dp</dimen>
+    <dimen name="card_view_width_1">450dp</dimen>
+    <dimen name="button_width">120dp</dimen>
+    <dimen name="button_width_1">250dp</dimen>
+    <dimen name="dialog_button_height">60dp</dimen>
+
+</resources>

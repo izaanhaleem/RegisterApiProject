@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Family Folder</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="lbl_select_all">Select All</string>
+    <string name="lbl_update">Update</string>
+    <string name="lbl_task_cancelled">Task Cancelled</string>
+    <string name="toast_time_out">Error Time Out</string>
+    <string name="select_file">Select File</string>
+    <string name="choosePicture">Choose Picture</string>
+    <string name="chooseFromGallery">Choose From Gallery</string>
+    <string name="takeFromCamera">Take Picture From Camera</string>
+    <string name="yes">Yes</string>
+    <string name="previous">Previously Treated</string>
+    <string name="no">No</string>
+    <string name="please_select_option">Please select option</string>
+    <string name="lbl_unselect_all">Unselect all</string>
+    <string name="dash_board">Dashboard</string>
+    <string name="registered_medical_practitioner">Registered Medical Practitioner</string>
+    <string name="registered_practitioner">Registered Practitioner</string>
+    <string name="owner_laboratory_technician_pathologist">Owner Laboratory Technician Pathologist</string>
+    <string name="incharge_of_managing_premises">Incharge of managing premises and by Community representative</string>
+    <string name="medical_registered_practitioner">Medical Registered Practitioner</string>
+    <string name="perticulars_of_a_patient">Perticulars of a Patient</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="father_spouse_name">Father/Spouse Name</string>
+    <string name="age">Age</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="cinc">CNIC</string>
+    <string name="occupation">Occupation</string>
+    <string name="address">Address</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="comor">ComorbdItIes</string>
+    <string name="Tb">Type of TB</string>
+    <string name="cover_for_more_than_two_weeks">Cough for more than 2 Weeks</string>
+    <string name="cbHV">HV</string>
+    <string name="Hepa">Hepatitis</string>
+    <string name="asthma">Asthma</string>
+    <string name="tension">Hypertension</string>
+    <string name="malig">Malignancies</string>
+    <string name="other">other</string>
+    <string name="fever">Fever</string>
+    <string name="weight_loss">Weight Loss</string>
+    <string name="co_existing_medical_condtion">Co-existing Medical Condtion</string>
+    <string name="diagnose_Symptomps">Diagnose Symptomps</string>
+    <string name="Patient_type">Patient Type</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="aids">AIDS</string>
+    <string name="chronical_renal_disease">Chronical Renal Disease</string>
+    <string name="disease_site">Disease Site (Tick One)</string>
+    <string name="disease_site_1">Disease Site</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="pulmunary">Pulmonary</string>
+    <string name="extra_pulmunary">Extra Pulmonary</string>
+    <string name="conformity_evidence">Conformity Evidence  for Ext:Pul:Cases</string>
+    <string name="sputum_afb">Sputum AFB</string>
+    <string name="positive">Positive</string>
+    <string name="negative">Negative</string>
+    <string name="xpert">X-Pert</string>
+    <string name="mtb_detected">MTB Detected</string>
+    <string name="mtb_not_detected">MTB Not Detected</string>
+    <string name="rif_resistance">Rif Resistance not detected</string>
+    <string name="mtb_nd">MTB ND</string>
+    <string name="culture_of_body_fluids">Culture of body Fluids/FNAC for AFB</string>
+    <string name="radiological_findings">Radiological Findings</string>
+    <string name="suggestive_of_tb">Suggestive of TB</string>
+    <string name="suggestive_of_not_tb">Suggestive of not TB</string>
+    <string name="type_of_patient">Type of Patient</string>
+    <string name="previously_treated">Previously Treated</string>
+    <string name="new_">New</string>
+    <string name="gender">Gender</string>
+    <string name="sociao_economic_status">Socio-Econoic-Status</string>
+    <string name="cough">Cough</string>
+    <string name="night_sweat">Night Sweat</string>
+    <string name="history_of_tubercloses">History of tuberclose in family or close contact</string>
+    <string name="retreatement">In this case of re-treatment of subsequesnt to loss to follow up, treatment failure or replace</string>
+    <string name="test_conducted_results">Test Conducted Results</string>
+    <string name="micro_result_of_sprutum">Microscopic Results of  Sputum</string>
+    <string name="micro_result_fluids">Microscopic Results  of any other fluids</string>
+    <string name="culture_of_sputum">Culture of Sputum</string>
+    <string name="gx_pert">GX Pert</string>
+    <string name="culture_of_fluids">Culture of body fluids</string>
+    <string name="mention_conducted_test">Mention if any test conducted</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="full_name">Full Name</string>
+    <string name="reg_no">Reg No.</string>
+    <string name="hospital_name">Lab/Hospital Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="type">Type</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_email_id">Please enter email Id</string>
+    <string name="enter_valid_email">Please enter valid email ID</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="enter_confirm_password">Please enter confirm password</string>
+    <string name="password_field_does_not_matches_confirm_password_field">Password does not matches with confirm password</string>
+    <string name="enter_type">Please select type</string>
+    <string name="enter_full_name">Please enter full name</string>
+    <string name="enter_contact_no">Please enter contact no</string>
+    <string name="enter_cnic">Please enter CNIC no</string>
+    <string name="enter_user_name">Please enter user name</string>
+    <string name="internet_not_available">Internet not available check internet settings</string>
+    <string name="check_location_settings">Please check your location settings</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="record_saved_on_mobile">Record saved on mobile</string>
+    <string name="pmdc_no">PMDC No.</string>
+    <string name="enter_age_greater_than_zero">Enter age greater than zero</string>
+    <string name="year">Year</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="type">
+        <item>Registered Medical Practitioner</item>
+        <item>Registered Practitioner</item>
+        <item>Owner Laboratory Technician Pathologist</item>
+        <item>Incharge of managing premises and by Community representative</item>
+    </string-array>
+    <string name="Search_Option">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>آپشن منتخب کریں</item>
+        <item>خاندان نمبر سے تلاش کریں</item>
+        <item>شناختی کارڈ نمبر سے تلاش کریں</item>
+        <item>نام سے تلاش کریں</item>
+        <item>فون نمبر سے تلاش کریں</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>
